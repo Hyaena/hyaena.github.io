@@ -2,13 +2,13 @@ title:            Hyæna
 tagline:          Jekyll Theme
 description:      Ole, wie er die Welt sieht
 #Comment out url when working locally to resolve base urls correctly
-url:              http://hyaena.github.io
+url:              
 
 # Owner/author information
 owner:
   name:           Olaf Rosendahl
   avatar:         ole-rosendahl.jpg
-  bio:            "Nur ein weiterer Web-Entwickler aus Hannover, Niedersachen."
+  bio:            "Du kannst mich Ole nennen."
   email:          ole.rosendahl@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
@@ -29,14 +29,14 @@ bing_verify:
 
 # Internal pages/posts to include in top navigation
 links:
-  - title: Über
+  - title: Ole
     atitle: "Was es so über mich zu sagen gibt…"
     url: /about
   - title: Artikel
     atitle: "Übersicht aller Artikel."
     url: /articles
   - title: Impressum
-    atitle: "Das übliche Blabla."
+    atitle: "All das Zeug, das Du nicht liest…"
     url: /imprint
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
