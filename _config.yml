@@ -2,8 +2,9 @@ title:            Hyæna
 tagline:          Jekyll Theme
 description:      Ole, wie er die Welt sieht
 #Comment out url when working locally to resolve base urls correctly
-url:              http://hyaena.github.io
+url:              http://hyaena.de
 
+tags_path:        /tags.html
 # Owner/author information
 owner:
   name:           Olaf Rosendahl
@@ -35,6 +36,9 @@ links:
   - title: Artikel
     atitle: "Übersicht aller Artikel."
     url: /articles
+  - title: Tags
+    atitle: "Übersicht aller Tags"
+    url: /tags
   - title: Impressum
     atitle: "All das Zeug, das Du nicht liest…"
     url: /imprint
