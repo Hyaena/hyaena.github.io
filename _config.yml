@@ -2,7 +2,7 @@ title:            Hyæna
 tagline:          Jekyll Theme
 description:      Ole, wie er die Welt sieht
 #Comment out url when working locally to resolve base urls correctly
-url:              
+url:              http://hyaena.github.io
 
 # Owner/author information
 owner:
