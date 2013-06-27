@@ -1,8 +1,8 @@
 <!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="de"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="de"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="de"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="de"><!--<![endif]-->
 <head>
 {% include head.html %}
 </head>
@@ -26,7 +26,7 @@
 </div>
 
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
-  {% for post in site.posts %}  
+  {% for post in site.posts %}
   {% unless post.next %}
     <h3>{{ post.date | date: '%Y' }}</h3>
     <hr />
@@ -52,6 +52,6 @@
 </div><!-- /.footer-wrap -->
 
 {% include scripts.html %}
-  
+
 </body>
 </html>

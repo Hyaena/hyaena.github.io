@@ -2,7 +2,7 @@
 layout: page
 permalink: /tags/index.html
 title: Tags
-tagline: Posts by tag
+tagline: Tagging, Tagging, Tagging
 tags: [tags]
 image:
   feature: texture-feature-03.jpg
