@@ -552,7 +552,7 @@ h6 {
   margin-top: 0;
 }
 p {
-  margin: 0 0 1.5em;
+  margin: 0 0 2.5em;
 }
 p + p {
   text-indent: 1.5em;
@@ -853,7 +853,7 @@ figcaption {
 figcaption:before {
   font-weight: 700;
   text-transform: uppercase;
-  content: "Figure " counter(captions) ": ";
+  content: "Photo " counter(captions) ": ";
 }
 /* Notice ============================================== */
 .notice {
@@ -2931,5 +2931,5 @@ img.mfp-img {
 }
 /* 2x for retina displays ================================== */
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
-  
+
 }
