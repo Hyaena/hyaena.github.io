@@ -23,8 +23,8 @@ owner:
   google_plus:    "https://plus.google.com/110935071248348737596"
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
+google_analytics: UA-3270232-1
+google_verify: NqZvUMGCiK0Y1iYR6d-wt-wpmWgmjn6rDSzFx4T0ZY4
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
